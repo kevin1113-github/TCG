@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f1e2d5ab4afa42cea0a45fd5ffe5c91, type: 3}
+  m_Name: WildBoar
+  m_EditorClassIdentifier: 
+  cardName: "\uD749\uD3ED\uD55C \uBA67\uB3FC\uC9C0"
+  cardImage: {fileID: 21300000, guid: a8a1eeb2c9940477088b19b620e5de74, type: 3}
+  cardType: 0
+  description: "\uD749\uD3ED\uD558\uB2E4"
+  health: 2
+  attack: 4
+  cost: 3
+  attackCount: 1

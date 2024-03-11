@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CardHolder
+  - Card
+  - Hand
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CardHolder
+  - Card
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Field
+    uniqueID: 1387566095
+    locked: 0
+  - name: FieldMask
+    uniqueID: 2650665809
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hand
+    uniqueID: 3881347981
+    locked: 0
+  - name: UI
+    uniqueID: 946967869
+    locked: 0
